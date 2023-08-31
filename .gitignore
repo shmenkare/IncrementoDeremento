@@ -1,0 +1,9 @@
+IncrementoDeremento.csproj
+IncrementoDeremento.sln
+IncrementoDeremento.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
